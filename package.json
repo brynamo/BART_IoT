@@ -1,0 +1,11 @@
+{
+  "name": "ASbase",
+  "version": "1.0.0",
+  "description": "Test for assignment 6",
+  "main": "eventer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bryan Morgan",
+  "license": "ISC"
+}
